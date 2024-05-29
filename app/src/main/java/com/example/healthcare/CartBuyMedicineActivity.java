@@ -106,7 +106,6 @@ public class CartBuyMedicineActivity extends AppCompatActivity {
         });
 
 
-        //datepicker
         initDatePicker();
         dateButton.setOnClickListener(new View.OnClickListener() {
             @Override
